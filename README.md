@@ -1,1 +1,1 @@
-#C-practise-problems
+#C-practice-problems
