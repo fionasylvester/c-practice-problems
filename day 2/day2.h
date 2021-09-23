@@ -1,0 +1,12 @@
+//DAY 2
+int generate_first_n_prime_numbers(int);
+int reverse_a_number(int);
+int palindrome(int);
+int sum_of_five_digits_modulus(int);
+int count_occurences_of_digit(int,int);
+int generate_series(int);
+int armstrong_number(int);
+void checkamicable(int,int);
+int menudriven_calculator(int,int,char);
+void area_of_shapes(int);
+int electricity_consumption(int);
