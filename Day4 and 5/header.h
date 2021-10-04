@@ -1,0 +1,10 @@
+int binary_decimal_conversion(int);
+int sequence_sum_of_three(int , int , int );
+int star_pattern(int);
+void multiple_of_seven();
+int power_of_number(int ,int);
+int factorial(int);
+void fx_function(int, int);
+int menudriven_algebra(int,int,char );
+void square_usingmacros(int);
+void concat_usingmacros(int ,int);
