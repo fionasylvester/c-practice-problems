@@ -1,10 +1,15 @@
-int binary_decimal_conversion(int);
-int sequence_sum_of_three(int , int , int );
-int star_pattern(int);
-void multiple_of_seven();
-int power_of_number(int ,int);
-int factorial(int);
-void fx_function(int, int);
-int menudriven_algebra(int,int,char );
-void square_usingmacros(int);
-void concat_usingmacros(int ,int);
+void ascending_descending();
+void swap_withfunction(int,int);
+void min_max_function();
+int delete_duplicate();
+int search_element();
+int search_element_binary();
+int string_length();
+void calender(int,int,int);
+void convert_lowertoupper();
+void reverse_string();
+void matrix_construction(int ,int);
+void matrix_addition(int,int);
+void matrix_compare(int,int);
+void sparse_matrix(int,int);
+
