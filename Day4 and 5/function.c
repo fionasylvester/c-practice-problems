@@ -284,7 +284,7 @@ int reverse_string()
 }
 
 
-/*
+
 
 //Day4/5 13-  WAP to construct 5 * 5 matrix and display the contents. Use functions for
 //construction and display of matrix
