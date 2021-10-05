@@ -1,18 +1,24 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "header.h"
-#include<assert.h>
+
 int main()
 {
-    printf("Day 3 assignment problems \n");
-    assert(binary_decimal_conversion(110110)==54);             //(3_1)WAP to convert binary to decimal
-    sequence_sum_of_three(0,1,1);
-    multiple_of_seven();
-    star_pattern(4);
-    assert(power_of_number(2,3)==8);
-    assert(factorial(3)==6);
-    fx_function(2,1);
-    assert(menudriven_algebra(9,0,1)==3);
-    square_usingmacros(5);
-    concat_usingmacros(2,2);
+    printf("Assignments day 4/5 \n");
+    ascending_descending();
+    swap_withfunction(5,6);
+    min_max_function();
+    delete_duplicate();
+    search_element();
+    search_element_binary();
+    string_length();
+    calender(2,11,2021);
+    convert_lowertoupper();
+    reverse_string();
+    matrix_construction(5,5);
+    matrix_addition(5,5);
+    sparse_matrix();
+    matrix_compare(4,4);
+    sparse_matrix(5,5);
+
+    return 0;
 }
